@@ -1,0 +1,7 @@
+{
+  "name": "Rota Escolar Inteligente",
+  "description": "Aplicativo para otimização de transporte escolar com gestão de alunos, check-in de presença e roteirização inteligente via IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
